@@ -1,0 +1,8 @@
+pip install ssl
+pip install requests
+pip install threading
+pip install pystyle
+pip install urllib3.execptions
+pip install http
+pip install colorama
+pip install uuid
