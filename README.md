@@ -1,5 +1,5 @@
 # tiktok_view
-Simple TIktok view in Python
+Simple Tiktok view in Python
 
 ## Information
 
