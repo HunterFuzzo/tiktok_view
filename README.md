@@ -16,6 +16,6 @@ This program in python work with an api
 >
 > Enter a link like https://www.tiktok.com/@user/video/7015656901644701806
 >
-> And  enter amount, leave blank for infinity
+> And  enter amount, enter 0 for infinity
 
 Enjoy, Azuka
