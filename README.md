@@ -19,3 +19,5 @@ This program in python work with an api
 > And  enter amount, enter 0 for infinity
 
 Enjoy, Azuka
+
+Hi
